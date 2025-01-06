@@ -162,11 +162,3 @@ python manage.py test
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-For any questions or support, please contact [[your-email@example.com](mailto\:your-email@example.com)].
-
